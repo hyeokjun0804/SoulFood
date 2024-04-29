@@ -69,7 +69,7 @@ h1{
 .box{
     height: 200px;
 }
-.age {
+.type {
     position: relative;
     top: 20px;
     left: 24%;
@@ -93,6 +93,7 @@ h1{
     justify-content: space-around;
     align-items: center;
     font-size: 1.3em;
+    height: 30px;
 }
 
 .card-container {
@@ -115,7 +116,7 @@ h1{
 .card img {
     width: 100%;
     border-radius: 5px;
-    height: 80%;
+    height: 80%; 
 }
 .card h2 {
     margin-top: 10px;
